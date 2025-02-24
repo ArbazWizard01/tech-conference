@@ -2,6 +2,12 @@
 
 Welcome to the official repository for the **Tech Conference 2025** website. This project is built using **SvelteKit** and showcases details about the conference, including **speakers, schedule, sponsors, and more**.
 
+
+
+
+https://github.com/user-attachments/assets/734bb842-7139-445f-a301-b6ff9efc1046
+
+
 ## 🚀 Features
 - **Dynamic Speaker List**: Displays featured speakers and their details.
 - **Schedule Management**: Fetches and displays the event schedule.
