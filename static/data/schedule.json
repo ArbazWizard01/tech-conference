@@ -1,0 +1,74 @@
+[
+    {
+        "title": "The Future of Interior Design: How AI and Machine Learning Are Transforming the Industry",
+        "about": "Explore how AI and machine learning are reshaping interior design by automating layouts, suggesting materials, and enhancing creativity with smart algorithms",
+        "time": " 08:30 - 09:30 AM",
+        "room": "Room 206",
+        "image": "/images/speaker_3.jpg",
+        "day":1
+    },
+    {
+        "title": "From Concept to Reality: How 3D Rendering Software is Revolutionizing Interior Design",
+        "about": "Learn how advanced 3D rendering tools help designers visualize spaces more accurately, create photorealistic models, and improve client presentations.",
+        "time": "  09:30 - 12:30 PM",
+        "room": "Room 204",
+        "image": "/images/speaker_1.jpg",
+        "day":1
+    },
+    {
+        "title": "The Role of AR & VR in Interior Design: Creating Immersive Client Experiences",
+        "about": "Discover how augmented and virtual reality technologies allow designers to showcase interactive designs, helping clients experience spaces before they are built.",
+        "time": " 12:30 - 02:00 PM",
+        "room": "Room 202",
+        "image": "/images/speaker_2.jpg",
+        "day":1
+    },
+    {
+        "title": "Automating Interior Design: How Software is Reducing Time and Costs",
+        "about": "Understand how automation tools streamline design workflows, optimize space planning, and reduce manual effort, saving both time and costs for designers.",
+        "time": " 08:30 - 09:30 AM",
+        "room": "Room 206",
+        "image": "/images/speaker_2.jpg",
+        "day":2
+    },
+    {
+        "title": "Designing for Sustainability: Leveraging Technology for Eco-Friendly Interiors",
+        "about": "Explore how interior design software helps in selecting sustainable materials, optimizing energy efficiency, and promoting green building practices.",
+        "time": "  09:30 - 12:30 PM",
+        "room": "Room 204",
+        "image": "/images/speaker_1.jpg",
+        "day":2
+    },
+    {
+        "title": "How Interior Design Software is Enhancing Collaboration Between Designers and Clients",
+        "about": "See how cloud-based platforms and real-time collaboration tools are improving communication between designers, clients, and contractors.",
+        "time": " 12:30 - 02:00 PM",
+        "room": "Room 202",
+        "image": "/images/speaker_2.jpg",
+        "day":2
+    },
+    {
+        "title": "Data-Driven Design: Using Analytics and User Behavior Insights for Better Spaces",
+        "about": "Learn how data analytics tools analyze user behavior and space utilization to create more functional and user-friendly interior designs.",
+        "time": " 08:30 - 09:30 AM",
+        "room": "Room 206",
+        "image": "/images/speaker_4.jpg",
+        "day":3
+    },
+    {
+        "title": "BIM vs. CAD: Choosing the Right Software for Your Interior Design Projects",
+        "about": "Understand the key differences between Building Information Modeling (BIM) and Computer-Aided Design (CAD) software to select the best tool for your needs.",
+        "time": "  09:30 - 12:30 PM",
+        "room": "Room 204",
+        "image": "/images/speaker_1.jpg",
+        "day":3
+    },
+    {
+        "title": "Bridging the Gap Between Traditional and Digital Interior Design Workflows",
+        "about": "Discover how designers can integrate traditional design methods with digital tools to create seamless and efficient design processes.",
+        "time": " 12:30 - 02:00 PM",
+        "room": "Room 202",
+        "image": "/images/speaker_2.jpg",
+        "day":3
+    }
+]

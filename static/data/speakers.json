@@ -1,0 +1,39 @@
+[
+    {
+      "name": "John Doe",
+      "title": "CEO of TechCorp",
+      "image": "/images/speaker_1.jpg",
+      "bio": "John is a visionary leader in AI and machine learning."
+    },
+    {
+      "name": "Evelyn Harper",
+      "title": "CTO at DevHub",
+      "image": "/images/speaker_3.jpg",
+      "bio": "Evelyn specializes in full-stack web development and cloud computing."
+    },
+    {
+      "name": "Michael Lee",
+      "title": "Lead Engineer at OpenSource",
+      "image": "/images/speaker_2.jpg",
+      "bio": "Michael is passionate about open-source projects and community contributions."
+    },
+    {
+      "name": "Grace Amelia",
+      "title": "Technical Consultant",
+      "image": "/images/speaker_4.jpg",
+      "bio": "Grace is specialize in tachnology."
+    },
+    {
+      "name": "Max Alexander",
+      "title": "Web Application Developer",
+      "image": "/images/speaker_5.jpg",
+      "bio": "Max specializes in full-stack web development and cloud computing."
+    },
+    {
+      "name": "Ava Charlotte",
+      "title": "Software Beta Tester",
+      "image": "/images/speaker_3.jpg",
+      "bio": "Ava is passionate about open-source projects and community contributions."
+    }
+  ]
+  
