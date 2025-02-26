@@ -116,4 +116,33 @@
 	.icon {
 		font-size: 24px;
 	}
+	@media (max-width: 720px) {
+		.contact-content {
+			display: block;
+		}
+		.contact-details {
+			width: 100%;
+		}
+		.contact-form {
+			width: 100%;
+		}
+		.contact-form input,
+		.contact-form textarea {
+			font-size: 10px;
+			/* display: block; */
+		}
+		.submit-btn {
+			font-size: 10px;
+			font-weight: 500;
+		}
+		.contact-box {
+			font-size: 18px;
+		}
+		.contact-box p {
+			font-size: 15px;
+		}
+		.contact-box .icon {
+			font-size: 15px;
+		}
+	}
 </style>

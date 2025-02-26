@@ -1,7 +1,6 @@
 <script>
-	import Contact from "$lib/Contact.svelte";
-	import Schedule from "$lib/Schedule.svelte";
-	
+	import Contact from '$lib/Contact.svelte';
+	import Schedule from '$lib/Schedule.svelte';
 </script>
 
 <section class="schedule-intro">
@@ -14,7 +13,6 @@
 <Contact />
 
 <style>
-	
 	.schedule-intro {
 		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 		height: 60vh;
@@ -30,5 +28,21 @@
 	}
 	.head-line {
 		font-size: 25px;
+	}
+	@media (max-width: 720px) {
+		.schedule-intro {
+			display: block;
+			padding-left: 70px;
+			padding-top: 70px;
+			height: 40vh;
+		}
+		.header {
+			font-size: 40px;
+		}
+		.head-line {
+			font-size: 20px;
+			padding-top: 20px;
+			max-width: 80%;
+		}
 	}
 </style>

@@ -128,10 +128,9 @@
 	.about {
 		display: grid;
 		grid-template-columns: 1fr 1fr;
-		height: 100vh;
+		/* height: 50vh; */
 	}
 	.about-content {
-		
 		padding: 130px;
 	}
 	.ev-about {
@@ -155,7 +154,9 @@
 		.about{
 			display: block;
 		}
-		
+		.head{
+			font-size: 20px;
+		}
 		.about-img{
 			display: none;
 		}
@@ -170,12 +171,21 @@
 		}
 		.content{
 			font-size: 10px;
+			
 		}
 		.ev-content{
 			font-size: 19px;
+			font-weight: 500;
 		}
 		.ev-about{
-			font-size: 5px;
+			font-size: 15px;
+		}
+		.orbit{
+			padding-bottom: 20px;
+			width: 60px;
+		}
+		.about-content{
+			padding: 85px;
 		}
 	}
 </style>

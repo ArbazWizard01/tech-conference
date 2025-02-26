@@ -56,7 +56,7 @@
 
 <About />
 <br/>
-<!-- <Contact /> -->
+<Contact />
 
 <style>
 	

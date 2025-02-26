@@ -1,7 +1,6 @@
 <script>
 	import Contact from '$lib/Contact.svelte';
 	import Sponsor from '$lib/Sponsor.svelte';
-	
 </script>
 
 <section class="sponsor-intro">
@@ -10,7 +9,7 @@
 </section>
 
 <Sponsor />
-<br/>
+<br />
 <Contact />
 
 <style>
@@ -29,5 +28,21 @@
 	}
 	.head-line {
 		font-size: 25px;
+	}
+	@media (max-width: 720px) {
+		.sponsor-intro {
+			display: block;
+			padding-left: 70px;
+			padding-top: 70px;
+			height: 40vh;
+		}
+		.header {
+			font-size: 40px;
+		}
+		.head-line {
+			font-size: 20px;
+			padding-top: 20px;
+			max-width: 80%;
+		}
 	}
 </style>
